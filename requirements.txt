@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.0
+matplotlib>=3.8
+requests>=2.31
+pydeck>=0.8
